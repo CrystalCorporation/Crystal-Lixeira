@@ -1,0 +1,8 @@
+name: Crystal-Lixeira
+description: Plugin de lixeira simples.
+version: 0.1
+main: Lixeira.Main
+authors: [ySlaysherz_]
+commands:
+  lixo:
+    aliases: [lixeira, lixeiro, lixos, lxos, lix, lx]
